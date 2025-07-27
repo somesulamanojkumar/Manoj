@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Hello, I'm [Your Name]!</h1>
+    <p>Welcome to my personal GitHub Page.</p>
+    <p>I'm interested in [Your Interests].</p>
+</body>
+</html>
